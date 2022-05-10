@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.QuimicaPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Topícos" 
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+            
+            <Label Text="Estrutura Atômica" /> 
+            <Label Text="Tabela Periódica" />
+            <Label Text="Ligações Químicas" />
+            <Label Text="Funções Inorgânicas" />
+            <Label Text="Reações Químicas" />
+            <Label Text="Estequiometria atômica" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

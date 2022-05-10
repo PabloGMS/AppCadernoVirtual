@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.ArtesPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Topícos" 
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+            
+            <Label Text="Danças indígenas: tipos, características e objetivos. A dança indígena é uma importante manifestação cultural dos povos."/>
+            <Label Text="Tragédia Grega."/>
+            <Label Text="Performance na Arte."/>
+            <Label Text="História da Fotografia."/>
+            <Label Text="Estátua da Liberdade."/>
+            <Label Text="Arte Cinética."/>
+                   
+            
+           </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

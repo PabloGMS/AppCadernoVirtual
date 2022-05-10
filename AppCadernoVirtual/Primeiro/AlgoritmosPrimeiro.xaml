@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.AlgoritmosPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Topícos" 
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+
+            <Label Text="Princípios de programação"/>
+            <Label Text="Comandos da linguagem de programação"/>
+            <Label Text="Programação estruturada"/>
+            <Label Text="Programação modular "/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

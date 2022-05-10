@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.EducacaoFisicaPrimeiro">
+    <ContentPage.Content>
+        <StackLayout Padding="15">
+            <Label Text="Tópicos:"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+
+            <Label Text="Aula prática contextualizando o jogo de queimada 4 cantos desempenhando a ética, as regras, a integração e a cooperação na atividade proposta." />
+            <Label Text="Registro no caderno das competências, habilidades e valores" />
+            <Label Text="Aula prática contextualizando a dança e o esporte individual e coletivo nas modalidades de: tênis de mesa, basquetebol, voleibol, nos jogos de raciocínio de xadrez e dama desempenhando a ética, a integração, as regras, as técnicas, as táticas, as metas e o avanço nas atividades proposta." />
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

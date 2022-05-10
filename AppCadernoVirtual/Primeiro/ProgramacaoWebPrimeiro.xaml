@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.ProgramacaoWebPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Topícos" 
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+            <Label Text="Conceitos de desenvolvimento para web"/>
+            <Label Text="Linguagem de marcação para a Web (HTML)"/>
+            <Label Text="Documento HTML mínimo, tags, atributos e conteúdo"/>
+            <Label Text="Estilos em cascata (CSS)"/>
+            <Label Text="Construção de leiaute"/>
+            
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
